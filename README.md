@@ -1,3 +1,3 @@
 # Cryptocurrencies
 
-![]("3dplot")
+![]("3dplot.png")
